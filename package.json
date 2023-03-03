@@ -1,0 +1,34 @@
+{
+  "name": "floating-island",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.56.28",
+    "@react-three/fiber": "^8.11.5",
+    "@react-three/postprocessing": "^2.7.0",
+    "@types/gsap": "^3.0.0",
+    "@types/three": "^0.149.0",
+    "gsap": "^3.11.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.150.1"
+  },
+  "devDependencies": {
+    "@types/autoprefixer": "^10.2.0",
+    "@types/tailwindcss": "^3.1.0",
+    "@vitejs/plugin-react": "^1.0.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.1.4"
+  },
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
